@@ -1,0 +1,18 @@
+{
+    "name": "axios-practice",
+    "version": "1.0.0",
+    "description": "practicing axios using node js",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodmon -x npm run test",
+        "test": "jest"
+    },
+    "author": "Amanda Rush",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.18.0",
+        "dotenv": "^8.0.0",
+        "jest": "^24.8.0",
+        "nodemon": "^1.19.1"
+    }
+}
