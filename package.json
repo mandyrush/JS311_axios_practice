@@ -4,7 +4,7 @@
     "description": "practicing axios using node js",
     "main": "index.js",
     "scripts": {
-        "start": "nodmon -x npm run test",
+        "start": "nodemon -x npm run test",
         "test": "jest"
     },
     "author": "Amanda Rush",
